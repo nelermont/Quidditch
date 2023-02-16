@@ -22,3 +22,5 @@
 - добавить новый функционал 
 
 quidditch.now.sh/
+
+<img src="https://github.com/nelermont/Quidditch/blob/master/hp.png" width="500" />
